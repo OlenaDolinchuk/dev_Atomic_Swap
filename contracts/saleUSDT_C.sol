@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 import "./IBEP20.sol";
 import "./Ownable.sol";
 
-contract Sale is Ownable {
+contract SaleUSDT_C is Ownable {
 
     address public USDT;
     address public USDC;
